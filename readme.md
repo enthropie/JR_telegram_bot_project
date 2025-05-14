@@ -1,5 +1,5 @@
 
-Проект "Telegram/ChatGPT"
+*Проект "Telegram/ChatGPT"*
 
 Код Telegram-бота с подключением ChatGPT.
 
